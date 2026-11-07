@@ -9,6 +9,19 @@ Developer working on TON blockchain infrastructure and Minecraft-related project
 - 🎮 Working on Minecraft projects and Creative++
 - 🌐 Building open-source software
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkyOfficial-ops&theme=github_dark" />
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SparkyOfficial-ops&theme=github_dark&count_private=true) |![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SparkyOfficial-ops&theme=github_dark&count_private=true&utcOffset=0) |
+|----|----|
+
+[![SparkyOfficial-ops GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkyOfficial-ops&theme=github_dark&show_icons=true&count_private=true)](https://github.com/SparkyOfficial-ops/SparkyOfficial-ops)
+
+
+![](https://komarev.com/ghpvc/?username=SparkyOfficial-ops)
+
+![Snake animation](https://github.com/SparkyOfficial-ops/SparkyOfficial-ops/blob/output/github-contribution-grid-snake.svg)
+  
+
 ## 🛠️ Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
