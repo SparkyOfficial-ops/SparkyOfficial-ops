@@ -1,5 +1,5 @@
 # Hi there, I'm Sparky 👋
-
+![Header](./github-header-banner.png)
 ## 🚀 About Me
 
 Developer working on TON blockchain infrastructure and Minecraft-related projects.
