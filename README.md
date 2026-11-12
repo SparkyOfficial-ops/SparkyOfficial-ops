@@ -1,12 +1,15 @@
 # Hi there, I'm Sparky 👋
+
 ![Header](./github-header-banner.png)
+
 ## 🚀 About Me
 
 Developer working on TON blockchain infrastructure and Minecraft-related projects.
 
 - 🔗 Building custom TON SDKs and blockchain tools
 - 💸 Developing TON payment and payout infrastructure
-- 🎮 Working on Minecraft projects and Creative++
+- 🔌 Working on TonConnect integrations and mock wallets
+- 🎮 Working on Minecraft-related projects
 - 🌐 Building open-source software
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkyOfficial-ops&theme=github_dark" />
@@ -15,12 +18,6 @@ Developer working on TON blockchain infrastructure and Minecraft-related project
 |----|----|
 
 [![SparkyOfficial-ops GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkyOfficial-ops&theme=github_dark&show_icons=true&count_private=true)](https://github.com/SparkyOfficial-ops/SparkyOfficial-ops)
-
-
-![](https://komarev.com/ghpvc/?username=SparkyOfficial-ops)
-
-![Snake animation](https://github.com/SparkyOfficial-ops/SparkyOfficial-ops/blob/output/github-contribution-grid-snake.svg)
-  
 
 ## 🛠️ Technologies
 
@@ -33,19 +30,17 @@ Developer working on TON blockchain infrastructure and Minecraft-related project
 
 ### 🔷 TON Infrastructure
 
-- [**cton-sdk-main**](https://github.com/SparkyOfficial-ops/cton-sdk-main) - Java SDK for TON blockchain interaction and smart contract operations.
+- [**tonnector**](https://github.com/SparkyOfficial-ops/tonnector) - Local TonConnect 2.0 bridge and mock wallet for development and testing.
 
-  `Java` `TON` `Ed25519` `Native Libraries`
+  `Java` `TON` `TonConnect 2.0` `Mock Wallet`
 
 - [**ton-payout-engine**](https://github.com/SparkyOfficial-ops/ton-payout-engine) - Bulk TON payout gateway with Highload Wallet v2 and Jetton transfer support.
 
   `Java` `TON` `Highload Wallet v2` `Jetton` `Ed25519` `cton-sdk`
 
-### 🔷 Minecraft Projects
+- [**cton-sdk-main**](https://github.com/SparkyOfficial-ops/cton-sdk-main) - Slightly outdated Java SDK for TON blockchain interaction and smart contract operations.
 
-- [**OpenCreativePlusPlus**](https://github.com/SparkyOfficial-ops/OpenCreativePlusPlus) - Creative++ project focused on Minecraft-related development.
-
-  `Kotlin` `Minecraft`
+  `Java` `TON` `Ed25519` `Native Libraries`
 
 ---
 
