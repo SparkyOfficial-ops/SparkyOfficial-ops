@@ -17,7 +17,6 @@ Developer working on TON blockchain infrastructure and Minecraft-related project
 |![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SparkyOfficial-ops&theme=github_dark&count_private=true) |![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SparkyOfficial-ops&theme=github_dark&count_private=true&utcOffset=0) |
 |----|----|
 
-[![SparkyOfficial-ops GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkyOfficial-ops&theme=github_dark&show_icons=true&count_private=true)](https://github.com/SparkyOfficial-ops/SparkyOfficial-ops)
 
 ## 🛠️ Technologies
 
